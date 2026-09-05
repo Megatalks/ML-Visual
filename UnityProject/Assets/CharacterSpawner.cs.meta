@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9857000c5e5ee4d70874ded19ae243a6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - zombiePrefab: {fileID: 2347837844914431822, guid: f999503010d9b406287d282d14bd15b2, type: 3}
+  - malePrefab: {fileID: 4670211401932364773, guid: dc2e35abfd5444e729b2fc5c02d92f4e, type: 3}
+  - femalePrefab: {fileID: 7905868156955871475, guid: 5ba2e5f52c8b8412dba4a973851001c5, type: 3}
+  - carPrefab: {fileID: 5864191885266392877, guid: fedf0fe91e852477a9596099aec481f6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
